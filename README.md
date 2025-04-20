@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amanpreet! 
+ <h1>Hi, I'm Amanpreet! 
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
